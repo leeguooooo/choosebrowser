@@ -20,7 +20,7 @@ After the trial, [a licence is US$4.99](https://choosebrowser.leeguoo.com/buy) â
 a one-time purchase, no subscription, and one key activates up to 3 Macs. Enter
 it under **Settings â†’ License**.
 
-A Mac App Store version is in review.
+Also on the [Mac App Store](https://apps.apple.com/app/choosebrowser/id6808098194).
 
 Requires macOS 26.0 or newer.
 
