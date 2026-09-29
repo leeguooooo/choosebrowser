@@ -24,6 +24,8 @@ Also on the [Mac App Store](https://apps.apple.com/app/choosebrowser/id680809819
 
 Requires macOS 26.0 or newer.
 
+**Windows:** a free [Windows preview](https://github.com/leeguooooo/choosebrowser/releases/tag/win-v0.1.0) is available for Windows 10/11 (Simplified Chinese UI, unsigned). Unzip, run `install.cmd`, then pick ChooseBrowser for HTTP and HTTPS under Settings → Apps → Default apps.
+
 ## What it does
 
 - Lists every installed browser automatically, with icons
