@@ -26,6 +26,12 @@ Requires macOS 26.0 or newer.
 
 **Windows:** a free [Windows preview](https://github.com/leeguooooo/choosebrowser/releases/tag/win-v0.1.0) is available for Windows 10/11 (Simplified Chinese UI, unsigned). Unzip, run `install.cmd`, then pick ChooseBrowser for HTTP and HTTPS under Settings → Apps → Default apps.
 
+## Setup and verification
+
+Set ChooseBrowser as the default browser in macOS System Settings → Desktop & Dock. Open a URL covered by a rule and verify the browser, profile and destination page; also check an unmatched URL. A profile does not guarantee which account is signed in on a website.
+
+[Product guide and FAQ](https://choosebrowser.leeguoo.com/choose-browser?lang=en-US) · [Machine-readable product brief](https://choosebrowser.leeguoo.com/llms.txt)
+
 ## What it does
 
 - Lists every installed browser automatically, with icons
