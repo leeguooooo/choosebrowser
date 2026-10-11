@@ -16,7 +16,7 @@ The build is signed with a Developer ID certificate (LI GUO, team `6ZPXG4KVVS`)
 and notarized by Apple, so it opens on a double-click: no "unidentified
 developer" warning and no right-click-to-open dance.
 
-After the trial, [a licence is US$4.99](https://choosebrowser.leeguoo.com/buy) —
+After the trial, [a licence is US$1.99](https://choosebrowser.leeguoo.com/buy) —
 a one-time purchase, no subscription, and one key activates up to 3 Macs. Enter
 it under **Settings → License**.
 
