@@ -36,7 +36,7 @@ Set ChooseBrowser as the default browser in macOS System Settings → Desktop & 
 
 - Lists every installed browser automatically, with icons
 - Per-site rules that can match a URL path, so one site can route to two browsers
-- Opens links in a specific Chrome, Edge, Brave, Vivaldi or Chromium **profile**
+- Opens links in a specific Chrome, Edge, Brave, Vivaldi, Chromium or [Tiller](https://github.com/sorrycc/Tiller) **profile**
 - Learns which browser you prefer per site and puts it first
 - Optional iCloud sync of rules across your own Macs
 - No accounts, no tracking, no analytics
